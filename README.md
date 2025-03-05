@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Bishnu!</h1>
 <h3>🚀 Software Engineer | Tech Enthusiast | Problem Solver</h3>
 
-🚀 Passionate about building **scalable, high-performance software**, exploring new technologies, and solving complex problems. I specialize in **backend development** and love working with **Go, Python, and cloud-native technologies**. I focus on writing clean, maintainable, and well-tested code using best practices like **unit testing** and **integration testing**.
+Passionate about building **scalable, high-performance software**, exploring new technologies, and solving complex problems. I specialize in **backend development** and love working with **Go, Python, and cloud-native technologies**. I focus on writing clean, maintainable, and well-tested code using best practices like **unit testing** and **integration testing**.
 
 <h2>🔥 About Me</h2>
 
