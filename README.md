@@ -1,13 +1,13 @@
 <h1>👋 Hi, I'm Bishnu!</h1>
 <h3>🚀 Software Engineer | Tech Enthusiast | Problem Solver</h3>
 
-<p>Passionate about building scalable software, exploring new technologies, and solving complex problems. I specialize in backend development and love working with Go, Python, and cloud technologies.</p>
+🚀 Passionate about building **scalable, high-performance software**, exploring new technologies, and solving complex problems. I specialize in **backend development** and love working with **Go, Python, and cloud-native technologies**. I focus on writing clean, maintainable, and well-tested code using best practices like **unit testing** and **integration testing**.
 
 <h2>🔥 About Me</h2>
 
 - 💻 Tech Stack: Go, Python, DB, Docker, Kubernetes, AWS
 - 🏆 Interests: Backend Development, Cloud Computing, Open Source
-- 🔍 Exploring: Distributed Systems, Performance Optimization, AI/ML
+- 🔍 Exploring: Distributed Systems, Performance Optimization, Kubernetes
 - 🌍 Looking to Collaborate on: Open-source projects & backend development
 - 📫 How to reach me: **bishnu.nandi123@gmail.com** or [LinkedIn](https://www.linkedin.com/in/bishnu-nandi)
 
@@ -38,6 +38,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 
   <a href="https://github.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/160px-GitHub_Invertocat_Logo.svg.png" alt="github" width="40" height="40"/> </a>
+  <a href="https://sentry.io" target="_blank"> <img src="https://s1.sentry-cdn.com/_static/71a827384f49a75aebfdd58f1bc8669f/sentry/images/logos/default-organization-logo.png" alt="sentry" width="40" height="40"/> </a>
   
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksEk6AFGFXtE4q92r5C9dE5FIWCQx5N1Iopfa1BuhwduYrIfAGZX-gsy2PX4A_5_xhvw&usqp=CAU" alt="aws" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" alt="gcp" width="80" height="40"/> </a>
