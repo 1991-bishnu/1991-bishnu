@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on an open-source project using my Python and Golang skills
 - 🤔 I’m looking for help with career guidance
 - 📫 How to reach me:
-  - Linkin: https://www.linkedin.com/in/bishnu-nandi/
+  - LinkedIn: https://www.linkedin.com/in/bishnu-nandi/
   - Email: bishnu.nandi123@gmail.com
