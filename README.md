@@ -11,6 +11,8 @@
 - 🌍 Looking to Collaborate on: Open-source projects & backend development
 - 📫 How to reach me: **bishnu.nandi123@gmail.com** or [LinkedIn](https://www.linkedin.com/in/bishnu-nandi)
 
+<h3>🎯 Actively looking for new opportunities in backend development, cloud technologies, and scalable systems.</h3>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -56,5 +58,4 @@
 
 
 
-💡 "The best way to predict the future is to create it." – Alan Kay
-
+💡 **"Always leave the code better than you found it."** – Robert C. Martin
