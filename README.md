@@ -1,9 +1,9 @@
-<h1>👋 Hi, I'm Bishnu!</h1>
-<h3>🚀 Software Engineer | Tech Enthusiast | Problem Solver</h3>
+# 👋 Hi, I'm Bishnu!
+### 🚀 Software Engineer | Tech Enthusiast | Problem Solver
 
 Passionate about building **scalable, high-performance software**, exploring new technologies, and solving complex problems. I specialize in **backend development** and love working with **Go, Python, and cloud-native technologies**. I focus on writing clean, maintainable, and well-tested code using best practices like **unit testing** and **integration testing**.
 
-<h2>🔥 About Me</h2>
+## 🔥 About Me
 
 - 💻 Tech Stack: Go, Python, DB, Docker, Kubernetes, AWS
 - 🏆 Interests: Backend Development, Cloud Computing, Open Source
@@ -11,9 +11,9 @@ Passionate about building **scalable, high-performance software**, exploring new
 - 🌍 Looking to Collaborate on: Open-source projects & backend development
 - 📫 How to reach me: **bishnu.nandi123@gmail.com** or [LinkedIn](https://www.linkedin.com/in/bishnu-nandi)
 
-<h3>🎯 Actively looking for new opportunities in backend development, cloud technologies, and scalable systems.</h3>
+### 🎯 Actively looking for new opportunities in backend development, cloud technologies, and scalable systems.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> 
 
 
